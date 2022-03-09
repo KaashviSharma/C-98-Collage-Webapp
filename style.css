@@ -1,33 +1,23 @@
-.body_backgorund {
-    background-color: cornflowerblue;
-    background-position: center;
-    background-size: cover;
-  }
-  body{
-    cursor: pointer;
-  }
-  h1
-  {
-      color: red; 
-      font-size: 40px;
-  }
-  #myCanvas
-  {
-      border-width:10px;
-      background-color: white; 
-      border-style:ridge;
-  }
-
-  button {
-    background-color: darksalmon;
-    border: none;
-    color: white;
-    padding: 10px 42px;
-    font-size: 16px;
-  }
-
-  input
-  {
-    margin-right: 20px;
-  }
-  
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+    background-color: rgb(255, 200, 190);
+}
